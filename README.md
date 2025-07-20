@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-as39.vercel.app/](portfolio-as39.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL , react**
+- 💬 Ask me about **HTML, CSS, JavaScript, nodejs,PostgreSQL, MySQL , react**
 
 - 📫 How to reach me **parentsgod50@gmail.com**
 
